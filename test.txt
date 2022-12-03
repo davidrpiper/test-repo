@@ -1,5 +1,5 @@
 {
-  elements: [
+  "elements": [
     {
       type: "rectangle",
       version: 141,
@@ -43,5 +43,5 @@
       isDeleted: false
     }
   ],
-  appState: { viewBackgroundColor: "#AFEEEE", currentItemFontFamily: 1 }
+  "appState": { "viewBackgroundColor": "#AFEEEE", "currentItemFontFamily": 1 }
 }
